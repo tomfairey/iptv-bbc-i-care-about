@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD",BBC One Yorks HD
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" group-title="BBC - Local",BBC One Yorks HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire",BBC One Yorks
+#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire" group-title="BBC - Local",BBC One Yorks
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.mpd
